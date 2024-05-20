@@ -1,2 +1,2 @@
 # elis-kosmetiksalonn
-Website für Elis
+Website für Elis Kosmetiksalon
